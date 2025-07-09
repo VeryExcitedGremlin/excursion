@@ -1,3 +1,16 @@
 body {
-    background: black;
+    background-color: black;
+}
+
+header h1 {
+    font-family: veranda;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
 }
