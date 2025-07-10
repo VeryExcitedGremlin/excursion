@@ -41,11 +41,10 @@ img {
     margin: auto;
 }
 
-img.phone {
+/*figure {
     position: relative;
-    top: 30px;
-    bottom: 30px;
-}
+    top: 20px;
+} */
 
 p.copy {
     text-align: right;
