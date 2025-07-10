@@ -39,8 +39,11 @@ p {
 img {
     display: block;
     margin: auto;
+}
+
+img.phone {
     position: relative;
-    bottom: 50px;
+    top: 50px;
 }
 
 p.copy {
