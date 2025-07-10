@@ -10,8 +10,8 @@ header h1 {
     text-align: center;
 }
 
-div a {
+div {
     color: aquamarine;
     font-size: 16px;
-    text-align: center;
+    position: center;
 }
