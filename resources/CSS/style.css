@@ -40,8 +40,17 @@ img {
     display: block;
     margin: auto;
 }
-    
+
+p #copy {
+    text-align: right;
+    color: gray;
+}
+
 footer {
     background-color: purple;
     text-align: center;
+}
+
+footer p {
+    color: black;
 }
