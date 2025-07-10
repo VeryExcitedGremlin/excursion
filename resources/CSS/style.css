@@ -15,3 +15,8 @@ div {
     font-size: 16px;
     position: center;
 }
+
+footer {
+    background-color: lavender;
+    text-align: center;
+}
