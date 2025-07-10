@@ -16,6 +16,11 @@ div {
     position: center;
 }
 
+video {
+    width: 404;
+    height: 720;
+}
+    
 footer {
     background-color: lavender;
     text-align: center;
