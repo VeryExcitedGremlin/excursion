@@ -10,18 +10,20 @@ header h1 {
     text-align: center;
 }
 
-div {
+a {
     color: aquamarine;
     font-size: 16px;
-    position: center;
+    display: block;
+    text-align: center;
 }
 
 video {
     width: 404;
     height: 720;
+    position: center;
 }
     
 footer {
-    background-color: lavender;
+    background-color: purple;
     text-align: center;
 }
