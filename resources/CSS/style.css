@@ -38,7 +38,7 @@ p {
 
 img {
     display: block;
-    margin: auto;
+/*    margin: auto; */
     position: relative;
     top: 50px;
 }
