@@ -40,7 +40,7 @@ img {
     display: block;
     margin: auto;
     position: relative;
-    top: 50px;
+    bottom: 50px;
 }
 
 p.copy {
